@@ -39,3 +39,19 @@
 **Links**: [JS30/20 - Step Up to the Mic](https://github.com/leeandher/JavaScript30/)
 
 **Goals for Tomorrow:** Complete 21st JS30 Challenge, keep working through RFB, mess around with the Twitter API if I get the chance.
+
+---
+
+### Day 004: October 4, 2018
+
+**Today's Progress**: Completed the 21st and 22nd [JS30](https://javascript30.com) challenge, completed a few more components in the [RFB](reactforbeginners.com) course, and read around the docs for the Twitter API
+
+**Topics**: Navigator Geolocation, Dynamic Elements, React Components, Intro to Props
+
+**Thoughts**: I definitely feel good for completing my goals that I had for today, and I'm definitely starting to pick up some steam. I installed like 4 VSCode extensions today, so you know I'm invested.
+
+**Links**: [JS30/21 and 22](https://github.com/leeandher/JavaScript30/), [RFB](https://github.com/leeandher/React-For-Beginners/)
+
+**Goals for Tomorrow:** JS30 22 (clean up some old CSS too), some RFB, and get set up with the Twitter API (start a repo).
+
+---
