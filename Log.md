@@ -50,8 +50,22 @@
 
 **Thoughts**: I definitely feel good for completing my goals that I had for today, and I'm definitely starting to pick up some steam. I installed like 4 VSCode extensions today, so you know I'm invested.
 
-**Links**: [JS30/21 and 22](https://github.com/leeandher/JavaScript30/), [RFB](https://github.com/leeandher/React-For-Beginners/)
+**Links**: [JS30/21 and 22](https://github.com/leeandher/JavaScript30/), [RFB](https://github.com/leeandher/React-For-Beginners/), [Twitter Docs](https://developer.twitter.com/en/docs.html)
 
 **Goals for Tomorrow:** JS30 22 (clean up some old CSS too), some RFB, and get set up with the Twitter API (start a repo).
+
+---
+
+### Day 005: October 5, 2018
+
+**Today's Progress**: Completed the 23rd [JS30](https://javascript30.com) challenge, began assembling larger components, and changing state in [RFB](reactforbeginners.com) and watch the [Mastering Markdown](https://masteringmarkdown.com/) course (to get faster at writing these logs)
+
+**Topics**: Modern Browsers' Speech Synthesis API, and in React, creating Refs, passing State, custom Props, and binding. Lastly some Markdown stuff.
+
+**Thoughts**: Today was a really productive day, and I definitely feel like I have a better understanding of React.js. I really enjoy working on courses, but I do think I should be focusing on some other stuff as well, be a project or maybe some algorithm/data structure practice.
+
+**Links**: [JS30/23](https://github.com/leeandher/JavaScript30/), [RFB](https://github.com/leeandher/React-For-Beginners/), [Mastering Markdown](https://masteringmarkdown.com/)
+
+**Goals for Tomorrow:** I didn't get around to cleaning up that CSS, so maybe take care of that, do JS30 24, some more RFB and if time permits, staart something with the Twitter API.
 
 ---
