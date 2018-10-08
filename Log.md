@@ -72,7 +72,7 @@
 
 ### Day 006: October 6, 2018
 
-**Today's Progress**: Completed the 24rd [JS30][js30c] challenge, and pretty much spent a few hours affter that just fixing up the CSS in all the other JS30 challenges that I've been rushing through honestly.
+**Today's Progress**: Completed the 24th [JS30][js30c] challenge, and pretty much spent a few hours after that just fixing up the CSS in all the other JS30 challenges that I've been rushing through honestly.
 
 **Topics**: Dynamic Navigation Bar (Sticky Nav), CSS Animations/Styling
 
@@ -81,6 +81,20 @@
 **Links**: [JS30/24][js30r], but the CSS changes are from 19-23
 
 **Goals for Tomorrow:** JS30 25, and a whole lot of RFB! With any luck, my plan is to get started on the twitter thing by maybe Day 008
+
+---
+
+### Day 007: October 7, 2018
+
+**Today's Progress**: Completed the 25th [JS30][js30c] challenge.
+
+**Topics**: Event propagation, bubbling, and capture. State persistence (through Local Storage and Firebase), as well as state/props syncing
+
+**Thoughts**: I got what felt like quite a bit done so that's really exciting, but I did think it took me a little long for the amount of work it. Completely subjective, but I am happy with how I did today!
+
+**Links**: [JS30/25][js30r], [RFB/Until Lesson 19][rfbr]
+
+**Goals for Tomorrow:** JS30 26, more RFB and plan out the Twitter API thing!
 
 ---
 
