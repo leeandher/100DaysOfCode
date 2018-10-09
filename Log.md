@@ -86,7 +86,7 @@
 
 ### Day 007: October 7, 2018
 
-**Today's Progress**: Completed the 25th [JS30][js30c] challenge.
+**Today's Progress**: Completed the 25th [JS30][js30c] challenge, and did a whole lot of [RFB][rfbc] afterwards.
 
 **Topics**: Event propagation, bubbling, and capture. State persistence (through Local Storage and Firebase), as well as state/props syncing
 
@@ -98,7 +98,22 @@
 
 ---
 
+### Day 008: October 8, 2018
+
+**Today's Progress**: Completed the 26th [JS30][js30c] challenge and got started looking into Twitter API.
+
+**Topics**: Navigation animations, and the Twitter API!
+
+**Thoughts**: Today was Thanksgiving in Canada, so I didn't get a whole lot done, but I still managed to accomplish some JS30 and got a good intro to the twitter API. I don't know how I'm going to make a CLI for it in Node, but atleast I have the idea!
+
+**Links**: [JS30/26][js30r], [Twitter from CLI Repository][tcli]
+
+**Goals for Tomorrow:** JS30 26 and complete a good chunk of the [RFB][rfbc] course. If time permits, look more into how I can make the CLI thing.
+
+---
+
 [js30c]: https://javascript30.com
 [js30r]: https://github.com/leeandher/JavaScript30
 [rfbc]: https://reactforbeginners.com
 [rfbr]: https://github.com/leeandher/React-For-Beginners
+[tcli]: https://github.com/leeandher/Twitter-From-CLI
