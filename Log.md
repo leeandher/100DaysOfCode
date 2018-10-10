@@ -112,6 +112,20 @@
 
 ---
 
+### Day 009: October 9, 2018
+
+**Today's Progress**: Completed the 27th [JS30][js30c] challenge and started messing around with some Node stuff, trying to get my 'Hello World!' via CLI.
+
+**Topics**: Click and Drag Scrolling, NPM and Node.js CLI shinanigans
+
+**Thoughts**: Busy day today, so I didn't really get too much done, but I still managed to complete and style JS30 27. It's coming to a close, which is pretty exciting but also somewhat scary. As for the Twitter for CLI thing, it really is proving to be harder than I thought to get started, let alone integrate the Twitter API.
+
+**Links**: [JS30/27][js30r], [Twitter from CLI Repository][tcli]
+
+**Goals for Tomorrow:** JS30 28, maybe some more Node CLI stuff if I get the time. Tomorrow is my Mom's Birthday!
+
+---
+
 [js30c]: https://javascript30.com
 [js30r]: https://github.com/leeandher/JavaScript30
 [rfbc]: https://reactforbeginners.com
