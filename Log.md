@@ -132,7 +132,7 @@
 
 **Topics**: HTMLMediaElement Controls via JS, NPM CLI installs/links, Twitter API calls
 
-**Thoughts**: I'm happy with my finishing another JS30 challenge, but I'm more excited that it's coming to a close. I want to get back on the [RFB][rfbc] train, AND I actually just bought [Advanced React][arc] as well! Big plans ahead! Happy Birthday Mom!
+**Thoughts**: I'm happy with my finishing another JS30 challenge, but I'm more excited that it's coming to a close. I want to get back on the [RFB][rfbc] train, AND I actually just bought [Advanced React][arc] as well. Big plans ahead! PS:Happy Birthday Mom!
 
 **Links**: [JS30/28][js30r], [Twitter from CLI][tcli]
 
