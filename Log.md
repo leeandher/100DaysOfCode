@@ -120,9 +120,23 @@
 
 **Thoughts**: Busy day today, so I didn't really get too much done, but I still managed to complete and style JS30 27. It's coming to a close, which is pretty exciting but also somewhat scary. As for the Twitter for CLI thing, it really is proving to be harder than I thought to get started, let alone integrate the Twitter API.
 
-**Links**: [JS30/27][js30r], [Twitter from CLI Repository][tcli]
+**Links**: [JS30/27][js30r], [Twitter from CLI][tcli]
 
 **Goals for Tomorrow:** JS30 28, maybe some more Node CLI stuff if I get the time. Tomorrow is my Mom's Birthday!
+
+---
+
+### Day 010: October 10, 2018
+
+**Today's Progress**: Completed the 28th [JS30][js30c] challenge and made my first few Twitter API calls for the [Twitter-From-CLI][tcli] project!
+
+**Topics**: HTMLMediaElement Controls via JS, NPM CLI installs/links, Twitter API calls
+
+**Thoughts**: I'm happy with my finishing another JS30 challenge, but I'm more excited that it's coming to a close. I want to get back on the [RFB][rfbc] train, AND I actually just bought [Advanced React][arc] as well! Big plans ahead! Happy Birthday Mom!
+
+**Links**: [JS30/28][js30r], [Twitter from CLI][tcli]
+
+**Goals for Tomorrow:** JS30 29, and get some more RFB done. Maybe consider doing that [Ginit demo project](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/) I found online.
 
 ---
 
@@ -131,3 +145,4 @@
 [rfbc]: https://reactforbeginners.com
 [rfbr]: https://github.com/leeandher/React-For-Beginners
 [tcli]: https://github.com/leeandher/Twitter-From-CLI
+[arc]: https://advancedreact.com
