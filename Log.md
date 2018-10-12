@@ -132,11 +132,25 @@
 
 **Topics**: HTMLMediaElement Controls via JS, NPM CLI installs/links, Twitter API calls
 
-**Thoughts**: I'm happy with my finishing another JS30 challenge, but I'm more excited that it's coming to a close. I want to get back on the [RFB][rfbc] train, AND I actually just bought [Advanced React][arc] as well. Big plans ahead! PS:Happy Birthday Mom!
+**Thoughts**: I'm happy with my finishing another JS30 challenge, but I'm more excited that it's coming to a close. I want to get back on the [RFB][rfbc] train, AND I actually just bought [Advanced React][argc] as well. Big plans ahead! PS:Happy Birthday Mom!
 
 **Links**: [JS30/28][js30r], [Twitter from CLI][tcli]
 
 **Goals for Tomorrow:** JS30 29, and get some more RFB done. Maybe consider doing that [Ginit demo project](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/) I found online.
+
+---
+
+### Day 011: October 11, 2018
+
+**Today's Progress**: Completed the 29th [JS30][js30c] challenge, and some more React Basics in [RFB][rfbc]
+
+**Topics**: Time and Date Objects in JS, State chanes through Children in React, React CSS Transition Grouping
+
+**Thoughts**: Wow, I'm going to finish JS30! This is crazy! My plan is to start the [Learn Node][lnc] right after so we'll see how that goes. It was a lot of fun, but I'm honestly seeing myself enjoying doing more React stuff right now, so let's keep the momentum going!
+
+**Links**: [JS30/29][js30r], [RFB/Until Lesson 22][rfbc]
+
+**Goals for Tomorrow:** JS30 30! Finish that course up!
 
 ---
 
@@ -145,4 +159,6 @@
 [rfbc]: https://reactforbeginners.com
 [rfbr]: https://github.com/leeandher/React-For-Beginners
 [tcli]: https://github.com/leeandher/Twitter-From-CLI
-[arc]: https://advancedreact.com
+[lnc]: https://learnnode.com
+[lnr]: https://github.com/leeandher/Learn-Node
+[argc]: https://advancedreact.com
