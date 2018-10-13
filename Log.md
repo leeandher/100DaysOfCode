@@ -154,6 +154,20 @@
 
 ---
 
+### Day 012: October 12, 2018
+
+**Today's Progress**: Completed some more work in [RFB][rfbc], leaving JS30:30 for a non-busy day
+
+**Topics**: Component Validation in React, and [TIS-100][tis]
+
+**Thoughts**: I feel pretty excited to sit down and code whenever I get the chance and I think that means that this repitition thing is working. I find time passing WAY faster than I think though, so I might have to work on my work speed/productivity. On a side note, I got really into a new game I just downloaded which has kind of a programm-y vibe to it. It's called [TIS-100][tis], and if you're reading this, you'll probably like it.
+
+**Links**: [RFB/Until Lesson 22][rfbc], [TIS-100][tis]
+
+**Goals for Tomorrow:** Tomorrow is another crammed day, so done just try to get some more done in React for Beginners.
+
+---
+
 [js30c]: https://javascript30.com
 [js30r]: https://github.com/leeandher/JavaScript30
 [rfbc]: https://reactforbeginners.com
@@ -162,3 +176,4 @@
 [lnc]: https://learnnode.com
 [lnr]: https://github.com/leeandher/Learn-Node
 [argc]: https://advancedreact.com
+[tis]: https://store.steampowered.com/app/370360/TIS100/
