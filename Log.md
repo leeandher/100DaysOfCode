@@ -162,9 +162,23 @@
 
 **Thoughts**: I feel pretty excited to sit down and code whenever I get the chance and I think that means that this repitition thing is working. I find time passing WAY faster than I think though, so I might have to work on my work speed/productivity. On a side note, I got really into a new game I just downloaded which has kind of a programm-y vibe to it. It's called [TIS-100][tis], and if you're reading this, you'll probably like it.
 
-**Links**: [RFB/Until Lesson 22][rfbc], [TIS-100][tis]
+**Links**: [RFB/Until Lesson 23][rfbc], [TIS-100][tis]
 
 **Goals for Tomorrow:** Tomorrow is another crammed day, so done just try to get some more done in React for Beginners.
+
+---
+
+### Day 013: October 13, 2018
+
+**Today's Progress**: Completed Authentication in [RFB][rfbc]!
+
+**Topics**: User Authentication (through GitHub, Twitter, and Facebook) via Firebase, along with Security Rules
+
+**Thoughts**: I took my time going through the Authentication process to make sure I did it right, but upon finishing, I realized that Firebase is pretty incredible, especially considering that it's free. I do think I should start branching out from coursework, but I really enjoy following along with an instructor. We shall see, going forward.
+
+**Links**: [RFB/Until Lesson 24][rfbr]
+
+**Goals for Tomorrow:** I think, if everything goes according to plan, I might be able to finish both [JS30][js30c], and [RFB][rfbc] tomorrow! If I have spare time after that, I want to get some work done with the [pdfmake npm package](https://www.npmjs.com/package/pdfmake) (for my actual co-op job).
 
 ---
 
