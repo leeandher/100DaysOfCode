@@ -182,6 +182,20 @@
 
 ---
 
+### Day 014: October 14, 2018
+
+**Today's Progress**: Completed [JavaScript30][js30c] AND [React For Beginners][rfbc]!
+
+**Topics**: Deploying/Hosting/Ejecting a create-react-app application, and In-browser Games
+
+**Thoughts**: I finally finished those courses! JS30 was really a long time coming, but I'm glad I took my time to make each challenge a cool in its own right. RFB was also a great experience, especially since I could see the whole app coming together while I learned how to write proper React. Next step, combine the two, and make a JS30 showcase page in React!
+
+**Links**: [JavaScript30 Repo][js30r] and [React-for-Beginners Repo][rfbr]
+
+**Goals for Tomorrow:** I want to get started with the [Learn Node][lnc] tomorrow, and maybe, if I have time, try to get some more headway with the [Twitter CLI][tcli]!
+
+---
+
 [js30c]: https://javascript30.com
 [js30r]: https://github.com/leeandher/JavaScript30
 [rfbc]: https://reactforbeginners.com
