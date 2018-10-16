@@ -196,12 +196,110 @@
 
 ---
 
+### Day 015: October 15, 2018
+
+**Today's Progress**: Took way too long, but setup for [Learn Node][lnc], and wrote the README.md for [Catch of the Day][rfbr].
+
+**Topics**: MongoDB Installation/GUI, Server Initalization
+
+**Thoughts**: The whole startup process was really tedious and difficult. There were errors popping up all over and I'm stil not 100% that I fixed everything properly. The problem with command line is I never know if I'm messing up or doing something major/permanent :/
+
+**Links**: [Learn Node Repo][lnr]
+
+**Goals for Tomorrow:**: Finish the setup, and start some [LN][lnc]
+
+---
+
+### Day 016: October 16, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow:**:
+
+---
+
+### Day 017: October 17, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow:**:
+
+---
+
+### Day 018: October 18, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow:**:
+
+---
+
+### Day 019: October 19, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow:**:
+
+---
+
+### Day 020: October 20, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow:**:
+
+---
+
+### Day 021: October 21, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow:**:
+
+---
+
 [js30c]: https://javascript30.com
 [js30r]: https://github.com/leeandher/JavaScript30
 [rfbc]: https://reactforbeginners.com
-[rfbr]: https://github.com/leeandher/React-For-Beginners
+[rfbr]: https://github.com/leeandher/Catch-of-the-Day
 [tcli]: https://github.com/leeandher/Twitter-From-CLI
 [lnc]: https://learnnode.com
-[lnr]: https://github.com/leeandher/Learn-Node
+[lnr]: https://github.com/leeandher/Now-Thats-Delicious
 [argc]: https://advancedreact.com
 [tis]: https://store.steampowered.com/app/370360/TIS100/
