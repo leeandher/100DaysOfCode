@@ -6,11 +6,11 @@
 
 **Topics**: Array.reduce() method
 
-**Thoughts:** I want to work on styling these and making each project look good on its own, even if it's really time consuming. I also want to start working on something outside of a course, something else I can call my own preferably.
+**Thoughts**: I want to work on styling these and making each project look good on its own, even if it's really time consuming. I also want to start working on something outside of a course, something else I can call my own preferably.
 
-**Links:** [JS30/18 - Reduction][js30r]
+**Links**: [JS30/18 - Reduction][js30r]
 
-**Goals for Tomorrow:** I would like to complete the 19th JS30 challenge, as well as start the [ReactForBeginners][rfbc] course.
+**Goals for Tomorrow**: I would like to complete the 19th JS30 challenge, as well as start the [ReactForBeginners][rfbc] course.
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Links**: [JS30/19 - SnAPIshots][js30r]
 
-**Goals for Tomorrow:** Complete 20th JS30 challenge and try to start the [RFB][rfbc] course.
+**Goals for Tomorrow**: Complete 20th JS30 challenge and try to start the [RFB][rfbc] course.
 
 ---
 
@@ -38,7 +38,7 @@
 
 **Links**: [JS30/20 - Step Up to the Mic][js30r]
 
-**Goals for Tomorrow:** Complete 21st JS30 Challenge, keep working through RFB, mess around with the Twitter API if I get the chance.
+**Goals for Tomorrow**: Complete 21st JS30 Challenge, keep working through RFB, mess around with the Twitter API if I get the chance.
 
 ---
 
@@ -52,7 +52,7 @@
 
 **Links**: [JS30/21 and 22][js30r], [RFB][rfbr], [Twitter Docs](https://developer.twitter.com/en/docs.html)
 
-**Goals for Tomorrow:** JS30 22 (clean up some old CSS too), some RFB, and get set up with the Twitter API (start a repo).
+**Goals for Tomorrow**: JS30 22 (clean up some old CSS too), some RFB, and get set up with the Twitter API (start a repo).
 
 ---
 
@@ -66,7 +66,7 @@
 
 **Links**: [JS30/23][js30r], [RFB][rfbr], [Mastering Markdown](https://masteringmarkdown.com/)
 
-**Goals for Tomorrow:** I didn't get around to cleaning up that CSS, so maybe take care of that, do JS30 24, some more RFB and if time permits, start something with the Twitter API.
+**Goals for Tomorrow**: I didn't get around to cleaning up that CSS, so maybe take care of that, do JS30 24, some more RFB and if time permits, start something with the Twitter API.
 
 ---
 
@@ -80,7 +80,7 @@
 
 **Links**: [JS30/24][js30r], but the CSS changes are from 19-23
 
-**Goals for Tomorrow:** JS30 25, and a whole lot of RFB! With any luck, my plan is to get started on the twitter thing by maybe Day 008
+**Goals for Tomorrow**: JS30 25, and a whole lot of RFB! With any luck, my plan is to get started on the twitter thing by maybe Day 008
 
 ---
 
@@ -94,7 +94,7 @@
 
 **Links**: [JS30/25][js30r], [RFB/Until Lesson 19][rfbr]
 
-**Goals for Tomorrow:** JS30 26, more RFB and plan out the Twitter API thing!
+**Goals for Tomorrow**: JS30 26, more RFB and plan out the Twitter API thing!
 
 ---
 
@@ -108,7 +108,7 @@
 
 **Links**: [JS30/26][js30r], [Twitter from CLI Repository][tcli]
 
-**Goals for Tomorrow:** JS30 26 and complete a good chunk of the [RFB][rfbc] course. If time permits, look more into how I can make the CLI thing.
+**Goals for Tomorrow**: JS30 26 and complete a good chunk of the [RFB][rfbc] course. If time permits, look more into how I can make the CLI thing.
 
 ---
 
@@ -122,7 +122,7 @@
 
 **Links**: [JS30/27][js30r], [Twitter from CLI][tcli]
 
-**Goals for Tomorrow:** JS30 28, maybe some more Node CLI stuff if I get the time. Tomorrow is my Mom's Birthday!
+**Goals for Tomorrow**: JS30 28, maybe some more Node CLI stuff if I get the time. Tomorrow is my Mom's Birthday!
 
 ---
 
@@ -136,7 +136,7 @@
 
 **Links**: [JS30/28][js30r], [Twitter from CLI][tcli]
 
-**Goals for Tomorrow:** JS30 29, and get some more RFB done. Maybe consider doing that [Ginit demo project](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/) I found online.
+**Goals for Tomorrow**: JS30 29, and get some more RFB done. Maybe consider doing that [Ginit demo project](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/) I found online.
 
 ---
 
@@ -150,7 +150,7 @@
 
 **Links**: [JS30/29][js30r], [RFB/Until Lesson 22][rfbc]
 
-**Goals for Tomorrow:** JS30 30! Finish that course up!
+**Goals for Tomorrow**: JS30 30! Finish that course up!
 
 ---
 
@@ -164,7 +164,7 @@
 
 **Links**: [RFB/Until Lesson 23][rfbc], [TIS-100][tis]
 
-**Goals for Tomorrow:** Tomorrow is another crammed day, so done just try to get some more done in React for Beginners.
+**Goals for Tomorrow**: Tomorrow is another crammed day, so done just try to get some more done in React for Beginners.
 
 ---
 
@@ -178,7 +178,7 @@
 
 **Links**: [RFB/Until Lesson 24][rfbr]
 
-**Goals for Tomorrow:** I think, if everything goes according to plan, I might be able to finish both [JS30][js30c], and [RFB][rfbc] tomorrow! If I have spare time after that, I want to get some work done with the [pdfmake npm package](https://www.npmjs.com/package/pdfmake) (for my actual co-op job).
+**Goals for Tomorrow**: I think, if everything goes according to plan, I might be able to finish both [JS30][js30c], and [RFB][rfbc] tomorrow! If I have spare time after that, I want to get some work done with the [pdfmake npm package](https://www.npmjs.com/package/pdfmake) (for my actual co-op job).
 
 ---
 
@@ -192,7 +192,7 @@
 
 **Links**: [JavaScript30 Repo][js30r] and [React-for-Beginners Repo][rfbr]
 
-**Goals for Tomorrow:** I want to get started with the [Learn Node][lnc] tomorrow, and maybe, if I have time, try to get some more headway with the [Twitter CLI][tcli]!
+**Goals for Tomorrow**: I want to get started with the [Learn Node][lnc] tomorrow, and maybe, if I have time, try to get some more headway with the [Twitter CLI][tcli]!
 
 ---
 
@@ -206,21 +206,21 @@
 
 **Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow:**: Finish the setup, and start some [LN][lnc]
+**Goals for Tomorrow**: Finish the setup, and start some [Learn Node][lnc]
 
 ---
 
 ### Day 016: October 16, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed Module 1 and 2 of [Learn Node][lnc]
 
-**Topics**:
+**Topics**: Concepts! (Routing, Templating, MVC, Middleware)
 
-**Thoughts**:
+**Thoughts**: I'm still getting started with Express.js but I can already see myself getting into it, especially for my website. Template languages are a useful tool I wish I got into before. I am starting to fall for this backend stuff 😍😍
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow:**:
+**Goals for Tomorrow**: Go through Module 2 again, and write some good notes, then try to get through Module 3.
 
 ---
 
@@ -234,7 +234,7 @@
 
 **Links**:
 
-**Goals for Tomorrow:**:
+**Goals for Tomorrow**::
 
 ---
 
@@ -248,7 +248,7 @@
 
 **Links**:
 
-**Goals for Tomorrow:**:
+**Goals for Tomorrow**::
 
 ---
 
@@ -262,7 +262,7 @@
 
 **Links**:
 
-**Goals for Tomorrow:**:
+**Goals for Tomorrow**::
 
 ---
 
@@ -276,7 +276,7 @@
 
 **Links**:
 
-**Goals for Tomorrow:**:
+**Goals for Tomorrow**::
 
 ---
 
@@ -290,7 +290,7 @@
 
 **Links**:
 
-**Goals for Tomorrow:**:
+**Goals for Tomorrow**::
 
 ---
 
