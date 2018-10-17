@@ -48,7 +48,7 @@
 
 **Topics**: Navigator Geolocation, Dynamic Elements, React Components, Intro to Props
 
-**Thoughts**: I definitely feel good for completing my goals that I had for today, and I'm definitely starting to pick up some steam. I installed like 4 VSCode extensions today, so you know I'm invested.
+**Thoughts**: I didn't find myself as interested in JS30 today as much as doing React. I think front-end frameworks just offer some variety or something that scratches a weird itch.
 
 **Links**: [JS30/21 and 22][js30r], [RFB][rfbr], [Twitter Docs](https://developer.twitter.com/en/docs.html)
 
