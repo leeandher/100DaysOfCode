@@ -226,15 +226,15 @@
 
 ### Day 017: October 17, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed Module 3 in [LN][lnc], Rewatched/Wrote notes on Module 1/2
 
-**Topics**:
+**Topics**: Concepts Again! and Creating Models with Mixins
 
-**Thoughts**:
+**Thoughts**: I don't like having to write notes on things but when I'm learning so much so fast, I think it's important for reference. On a side note, `//TODO: Externalize notes into my programming-notes repository`.
 
-**Links**:
+**Links**: [LNR][lnr], [Notes][lnn]
 
-**Goals for Tomorrow**::
+**Goals for Tomorrow**: Complete 1/2 of Module 4, finish up-to-date notes
 
 ---
 
@@ -248,7 +248,7 @@
 
 **Links**:
 
-**Goals for Tomorrow**::
+**Goals for Tomorrow**:
 
 ---
 
@@ -262,7 +262,7 @@
 
 **Links**:
 
-**Goals for Tomorrow**::
+**Goals for Tomorrow**:
 
 ---
 
@@ -276,7 +276,7 @@
 
 **Links**:
 
-**Goals for Tomorrow**::
+**Goals for Tomorrow**:
 
 ---
 
@@ -290,7 +290,7 @@
 
 **Links**:
 
-**Goals for Tomorrow**::
+**Goals for Tomorrow**:
 
 ---
 
@@ -301,5 +301,6 @@
 [tcli]: https://github.com/leeandher/Twitter-From-CLI
 [lnc]: https://learnnode.com
 [lnr]: https://github.com/leeandher/Now-Thats-Delicious
+[lnn]: https://github.com/leeandher/Now-Thats-Delicious/blob/master/now-thats-delicious/notepad.md
 [argc]: https://advancedreact.com
 [tis]: https://store.steampowered.com/app/370360/TIS100/
