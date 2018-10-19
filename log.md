@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Table of Contents
+
+## October 2018
+
 ### Day 001: October 1, 2018
 
 **Today's Progress**: Completed the 18th challenge in the [JavaScript30][js30c] online course.
@@ -281,6 +285,146 @@
 ---
 
 ### Day 021: October 21, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 022: October 22, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 023: October 23, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 024: October 24, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 025: October 25, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 026: October 26, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 027: October 27, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 028: October 28, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 029: October 29, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 030: October 30, 2018
+
+**Today's Progress**:
+
+**Topics**:
+
+**Thoughts**:
+
+**Links**:
+
+**Goals for Tomorrow**:
+
+---
+
+### Day 031: October 31, 2018
 
 **Today's Progress**:
 
