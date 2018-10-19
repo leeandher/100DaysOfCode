@@ -240,15 +240,15 @@
 
 ### Day 018: October 18, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed 1/2 of Mod 4 in [LN][lnc], caught up with notes until Mod 3!
 
-**Topics**:
+**Topics**: MVC, Async Await, Flash Messages
 
-**Thoughts**:
+**Thoughts**: This course is really in depth. It's definitely more challenging than the last one, so I think it was a good choice, but that being said, I'm really enjoying it. Backend JS is so formal, and structured, especially with the DB calls. I think from now on, I'm going to write notes on the Module once I complete it, just to solidify everything.
 
-**Links**:
+**Links**: [LNR][lnr], [Notes][lnn]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Complete the rest of Module 4, Write notes on it.
 
 ---
 
