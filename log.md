@@ -264,7 +264,7 @@
 
 **Thoughts**: Today was more conceptual than anything but I'm glad I got something done, even though I was pretty busy. Tomorrow will probably be even worse but that's life! I rearranged and formalized the notes too. I think I should be reading them over before the next module just so I can get them down pat before moving on.
 
-**Links**: [Learn Node Repo][lnr], _notes are in their own directory_
+**Links**: [Learn Node Repo][lnr] (notes are in their own directory)
 
 **Goals for Tomorrow**: Complete Module 4 in [Learn Node][lnc]
 
@@ -272,15 +272,15 @@
 
 ### Day 020: October 20, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed [Module 4][lnc] and wrote some more helpful notes.
 
-**Topics**:
+**Topics**: Creating a control flow, and querying the DB
 
-**Thoughts**:
+**Thoughts**: I really do think I'm following along, but the best way to test myself might just be to try and build something on my own. I think losing that ability to pause, seek, and replay (along with clear cut instructions) might make this stuff really challenging.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr] (notes are in their own directory)
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Tomorrow's busy, so maybe just get started with Module 5.
 
 ---
 
