@@ -236,7 +236,7 @@
 
 **Thoughts**: I don't like having to write notes on things but when I'm learning so much so fast, I think it's important for reference. On a side note, `//TODO: Externalize notes into my programming-notes repository`.
 
-**Links**: [LNR][lnr], [Notes][lnn]
+**Links**: [Learn Node Repo][lnr], [Notes][lnn]
 
 **Goals for Tomorrow**: Complete 1/2 of Module 4, finish up-to-date notes
 
@@ -250,7 +250,7 @@
 
 **Thoughts**: This course is really in depth. It's definitely more challenging than the last one, so I think it was a good choice, but that being said, I'm really enjoying it. Backend JS is so formal, and structured, especially with the DB calls. I think from now on, I'm going to write notes on the Module once I complete it, just to solidify everything.
 
-**Links**: [LNR][lnr], [Notes][lnn]
+**Links**: [Learn Node Repo][lnr], [Notes][lnn]
 
 **Goals for Tomorrow**: Complete the rest of Module 4, Write notes on it.
 
@@ -258,15 +258,15 @@
 
 ### Day 019: October 19, 2018
 
-**Today's Progress**:
+**Today's Progress**: Wrote some more notes and practiced with the stuff in first half [Module 4][lnc].
 
-**Topics**:
+**Topics**: Creating Models, Async/Await vs. Promises vs. Callback Hell
 
-**Thoughts**:
+**Thoughts**: Today was more conceptual than anything but I'm glad I got something done, even though I was pretty busy. Tomorrow will probably be even worse but that's life! I rearranged and formalized the notes too. I think I should be reading them over before the next module just so I can get them down pat before moving on.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr], _notes are in their own directory_
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Complete Module 4 in [Learn Node][lnc]
 
 ---
 
