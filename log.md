@@ -286,15 +286,15 @@
 
 ### Day 021: October 21, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed [Module 5 and 6][lnc]
 
-**Topics**:
+**Topics**: Geolocation w/ Google Maps API, File Handling for Images
 
-**Thoughts**:
+**Thoughts**: In the Learn Node course today, there was a section where Wes had said that 'if you feel comfortable, you can pause the video here and try it yourself', and lo and behold I was able to get it working! These notes really help with understanding this MVC stuff, but then again, I still missed an edge case after I was finished.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Write notes on Module 5 and 6, start Module 7 if time permits
 
 ---
 
