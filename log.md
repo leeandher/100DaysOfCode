@@ -108,7 +108,7 @@
 
 **Topics**: Navigation animations, and the Twitter API!
 
-**Thoughts**: Today was Thanksgiving in Canada, so I didn't get a whole lot done, but I still managed to accomplish some JS30 and got a good intro to the twitter API. I don't know how I'm going to make a CLI for it in Node, but atleast I have the idea!
+**Thoughts**: Today was Thanksgiving in Canada, so I didn't get a whole lot done, but I still managed to accomplish some JS30 and got a good intro to the twitter API. I don't know how I'm going to make a CLI for it in Node, but at least I have the idea!
 
 **Links**: [JS30/26][js30r], [Twitter from CLI Repository][tcli]
 
@@ -120,7 +120,7 @@
 
 **Today's Progress**: Completed the 27th [JS30][js30c] challenge and started messing around with some Node stuff, trying to get my 'Hello World!' via CLI.
 
-**Topics**: Click and Drag Scrolling, NPM and Node.js CLI shinanigans
+**Topics**: Click and Drag Scrolling, NPM and Node.js CLI shenanigans
 
 **Thoughts**: Busy day today, so I didn't really get too much done, but I still managed to complete and style JS30 27. It's coming to a close, which is pretty exciting but also somewhat scary. As for the Twitter for CLI thing, it really is proving to be harder than I thought to get started, let alone integrate the Twitter API.
 
@@ -148,7 +148,7 @@
 
 **Today's Progress**: Completed the 29th [JS30][js30c] challenge, and some more React Basics in [RFB][rfbc]
 
-**Topics**: Time and Date Objects in JS, State chanes through Children in React, React CSS Transition Grouping
+**Topics**: Time and Date Objects in JS, State changes through Children in React, React CSS Transition Grouping
 
 **Thoughts**: Wow, I'm going to finish JS30! This is crazy! My plan is to start the [Learn Node][lnc] right after so we'll see how that goes. It was a lot of fun, but I'm honestly seeing myself enjoying doing more React stuff right now, so let's keep the momentum going!
 
@@ -164,7 +164,7 @@
 
 **Topics**: Component Validation in React, and [TIS-100][tis]
 
-**Thoughts**: I feel pretty excited to sit down and code whenever I get the chance and I think that means that this repitition thing is working. I find time passing WAY faster than I think though, so I might have to work on my work speed/productivity. On a side note, I got really into a new game I just downloaded which has kind of a programm-y vibe to it. It's called [TIS-100][tis], and if you're reading this, you'll probably like it.
+**Thoughts**: I feel pretty excited to sit down and code whenever I get the chance and I think that means that this repetition thing is working. I find time passing WAY faster than I think though, so I might have to work on my work speed/productivity. On a side note, I got really into a new game I just downloaded which has kind of a program-y vibe to it. It's called [TIS-100][tis], and if you're reading this, you'll probably like it.
 
 **Links**: [RFB/Until Lesson 23][rfbc], [TIS-100][tis]
 
@@ -204,7 +204,7 @@
 
 **Today's Progress**: Took way too long, but setup for [Learn Node][lnc], and wrote the README.md for [Catch of the Day][rfbr].
 
-**Topics**: MongoDB Installation/GUI, Server Initalization
+**Topics**: MongoDB Installation/GUI, Server Initialization
 
 **Thoughts**: The whole startup process was really tedious and difficult. There were errors popping up all over and I'm stil not 100% that I fixed everything properly. The problem with command line is I never know if I'm messing up or doing something major/permanent :/
 
@@ -300,15 +300,15 @@
 
 ### Day 022: October 22, 2018
 
-**Today's Progress**:
+**Today's Progress**: Wrote Notes on Module 5, Picked a editor font, and solid colour theme.
 
-**Topics**:
+**Topics**: Geolocation and DB Management, Workflow Personalization/Improvement
 
-**Thoughts**:
+**Thoughts**: I think that personalizing your desktop/editor/work environment is a really important part when it comes to being productive. Sure I wasn't coding for 2h today, but I'll be better focused tomorrow with a setup I really like!
 
-**Links**:
+**Links**: [Learn Node Repo][lnr], [Font](https://github.com/tonsky/FiraCode), [Colour Scheme](draculatheme.com)
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Start Module 7 and write notes on Module 6
 
 ---
 
