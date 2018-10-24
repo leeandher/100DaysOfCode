@@ -314,15 +314,15 @@
 
 ### Day 023: October 23, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed Module 7 AND caught up completely with my note-taking!
 
-**Topics**:
+**Topics**: MongoDB Aggregations, Pipeline Stages and Parallel JS Promises
 
-**Thoughts**:
+**Thoughts**: Today was a good, productive day so that's awesome! 🙌🙌 I definitely think that as tedious as it may be, writing notes is really helping me understand the flow of the data through the app, so I'm gonna keep it up.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Start Module 8, and if time permits, write some notes
 
 ---
 
