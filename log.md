@@ -328,15 +328,15 @@
 
 ### Day 024: October 24, 2018
 
-**Today's Progress**:
+**Today's Progress**: Started Module 8, Created User Login Forms, and Validated Register Info
 
-**Topics**:
+**Topics**: Passport.js Validation,
 
-**Thoughts**:
+**Thoughts**: Today was okay, but it took me pretty long to get through something that maybe should've taken 45m. I want to be able to get through this stuff faster, but I think this is the only way I can really learn it. Next, I want to comment what I have so far, write some notes, and install ESLint, because that's way harder than it should be.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Finish some more Module 8, Write some notes
 
 ---
 
