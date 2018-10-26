@@ -342,15 +342,15 @@
 
 ### Day 025: October 25, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed User Authentication and Registration! ([1/2 Mod 8][lnc])
 
-**Topics**:
+**Topics**: Password Hashing Middleware through Passport.js, Database Setup
 
-**Thoughts**:
+**Thoughts**: Today went well, and it marks my 1/4 the way to D100! That's pretty exciting. I also had a few ideas for something I could do later on. I want to try to make some SPA apps in some of the front end frameworks. I don't really know how I would go about doing this but I think It's a cool idea. Like a DevGameHub kinda thing. Anyway, just a thought!
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Start notes, and hopefully finish module 8!
 
 ---
 
