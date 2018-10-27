@@ -356,15 +356,15 @@
 
 ### Day 026: October 26, 2018
 
-**Today's Progress**:
+**Today's Progress**: A secret project!
 
-**Topics**:
+**Topics**: Reading through Docs, Gulp.js, Plugins, Browser-Sync
 
-**Thoughts**:
+**Thoughts**: Today I figured out a cool secret project I want to work on for a bit and I'm pretty excited! I think it'll go pretty well once I get it up and running, but I'm really no designer. As a cool sidenote, I did manage to set up and install a bunch of plugins for Gulp to automate my workflow!
 
-**Links**:
+**Links**: Not yet!
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Well it's my birthday so... Maybe some more of this stuff, and finish Mod 8, (but who knows).
 
 ---
 
