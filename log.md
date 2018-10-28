@@ -370,15 +370,15 @@
 
 ### Day 027: October 27, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed my secret project, A belated birthday card for my girlfriend!
 
-**Topics**:
+**Topics**: CSS Keyframes Animations, and Styling
 
-**Thoughts**:
+**Thoughts**: I was just trying to get everything working and looking snazzy before I gave it to her today. She really liked it, so I take that as a good sign. That being said, It wasn't all that much technical JS work, but was still a cool learning experience (with Gulp.js and its plugins). Anyway, gotta enjoy the rest of my birthday so 👋👋.
 
-**Links**:
+**Links**: [HBD Card!](https://github.com/leeandher/Happy-Birthday-Jordine)
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Complete Module 8, (or atleast most of it) in [Learn Node][lnc]
 
 ---
 
