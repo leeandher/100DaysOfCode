@@ -384,15 +384,15 @@
 
 ### Day 028: October 28, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed module 8 of [Learn Node][lnc]
 
-**Topics**:
+**Topics**: Virtual Fields in MDB, User Account Editing, Password Reset Flow
 
-**Thoughts**:
+**Thoughts**: I think I'm getting the hand of the request -> response -> middleware design of the app, and I was actually able to do a lot of the process work in today's video set without just copying the solutions, or typing along with him. I think the notes should help me finalize that.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: As many notes on Module 8 as I can!
 
 ---
 
