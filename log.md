@@ -398,15 +398,15 @@
 
 ### Day 029: October 29, 2018
 
-**Today's Progress**:
+**Today's Progress**: Wrote a bunch of notes on [Learn Node][lnc]
 
-**Topics**:
+**Topics**: Notes on Creating User Account Schemas
 
-**Thoughts**:
+**Thoughts**: These notes get really hairy when you start talking about specific libraries, but I think they help me understand the control flow. I spent a long time writing very little, hopefully tomorrow goes better. Cool side note though, I bought the [domain](http://lgr.fyi) to start a new project, a URL shortener. I might be spreading myself thing but I got like 71 more days so now worries just yet.
 
-**Links**:
+**Links**: [Learn Node Repo][lnr]
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**: Catch up with my notes, start looking at the URL shortening repository.
 
 ---
 
