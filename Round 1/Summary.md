@@ -1,7 +1,7 @@
 ## Done in 100 Days
 
 - JS Challenges - _https://github.com/leeandher/javascript30_
-- First React App - _http://catch-of-the-day.leander.xyz_
+- First React App - _http://catchoftheday.leander.xyz_
 - First Node App - _http://now-thats-delicious-leeandher.herokuapp.com_
 - First Redux App - _http://reduxstagram.leander.xyz_
 - Node/React App - Deployed to AWS (EB) - _http://lgr.fyi_
