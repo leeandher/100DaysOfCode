@@ -10,4 +10,7 @@ It may seem trivial to begin with, but an hour a day can add up! It does wonders
 
 Anyway, long story short, I use this repo to record all my ramblings and thoughts. Doubtful I'll ever read them all, but one day it will be a cute stroll down memory lane 🔥😎!
 
-- _Leander_
+---
+
+## Quick Links
+[Round 1 - Summary](https://github.com/leeandher/100DaysOfCode/blob/master/Round%201/Summary.md)
